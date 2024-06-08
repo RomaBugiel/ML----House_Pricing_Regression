@@ -28,6 +28,9 @@ Score on Kaggle: 1.12
 ## Technical - Machine Learning
 
 ### Supervised Learning
+
+> Dataset contains a wide set of features, thus the analysis cover esspecialy
+
 * Linear models (<span style="color: green; font-weight: bold;">Linear Regression, Ridge, Lasso, ElasticNet</span>).
 * Tree-based models (<span style="color: green; font-weight: bold;">Random Forest</span>).
 * Cross-validation techniques & Hyperparameter tuning: <span style="color: green; font-weight: bold;">K-Fold Cross-Validation and Grid Search</span>
