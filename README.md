@@ -1,6 +1,6 @@
 # House Pricing Dataset Analysis
 A comprehensive analysis of the House Pricing dataset with various regression models and feature selection techniques.
-Score on Kaggle: 1.12
+Score on Kaggle: 0.15
 
 ## Data Science Workflow
 * <span style="color: green; font-weight: bold;">Data Cleaning:</span> Handling missing values, outliers, and inconsistencies.
